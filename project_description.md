@@ -5,7 +5,7 @@ This project focuses on analyzing the Titanic dataset using Python to uncover me
 
 🎯 Objective
 Perform Exploratory Data Analysis (EDA)
-Identify key factors affecting survival
+Identify key factors affecting survival.
 Visualize trends and patterns in the dataset
 📊 Dataset Information
 Dataset: Titanic Dataset
