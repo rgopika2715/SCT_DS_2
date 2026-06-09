@@ -8,31 +8,43 @@ The goal is to analyze passenger data, identify patterns, and understand factors
 
 🎯 Objectives
 
-Clean and preprocess raw data
+1. Clean and preprocess raw data
 
-Handle missing values
+2. Handle missing values
 
-Convert categorical data into numerical form
+3. Convert categorical data into numerical form
 
-Perform exploratory data analysis
+4. Perform exploratory data analysis
 
-Identify trends and relationships between variables
+5. Identify trends and relationships between variables
 
-Embarked location
+6. Embarked location
 
 🛠️ Technologies Used
 
-Python
+1. Python
 
-Pandas
+2. Pandas
 
-NumPy
+3. NumPy
 
-Matplotlib
+4. Matplotlib
 
-Seaborn
+5. Seaborn
 
-Google Colab / Jupyter Notebook
+6. Google Colab / Jupyter Notebook
+
+🔍 Key Insights
+
+1. Females had a significantly higher survival rate than males
+
+2. First-class passengers were more likely to survive
+
+3. Higher fare is associated with higher survival probability
+
+4. Age has a minor impact on survival
+
+5. Socio-economic status played an important role
 
 📎 Author
 
