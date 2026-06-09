@@ -1,15 +1,8 @@
-📂 Dataset
-
+📂 Dataset:
 The dataset contains information about Titanic passengers, including:
-
 Survival (0 = No, 1 = Yes)
-  
 Passenger Class (Pclass)
-  
 Gender (Sex)
-  
 Age
-  
 Fare
-  
 Embarked location
