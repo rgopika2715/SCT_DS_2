@@ -48,6 +48,6 @@ The goal is to analyze passenger data, identify patterns, and understand factors
 
 📎 Author
 
-Gopika R
+ Gopika R
 
-(Data Science Intern)
+ (Data Science Intern)
