@@ -1,4 +1,4 @@
-🚢 Titanic Data Cleaning & Exploratory Data Analysis (EDA)
+🚢 Titanic Data Cleaning and Exploratory Data Analysis (EDA)
 
 📌 Project Overview
 
